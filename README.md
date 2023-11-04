@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bakr</h1>
 <h3 align="center">Python Enthusiast with Strong Problem-Solving Skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bek0&label=Profile%20views&color=0e75b6&style=flat" alt="bek0" /> </p>
-
 - 🌱 I’m currently learning **Data Structures and Algorithms in Python, complemented by a deep dive into Data Science**
 
 - 📫 How to reach me **bakr.ssamer@gmail.com**
