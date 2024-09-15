@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in Python, complemented by a deep dive into Data Science**
 
-- 📫 How to reach me **bakr.ssamer@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/bakr-alkhalaileh/) or **bakr.ssamer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
